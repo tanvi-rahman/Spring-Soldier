@@ -64,7 +64,7 @@ Completed Commissioning 4/29 ✔️
 
 4/25/21 - Prepared final presentation - Tanvi Rahman
 
-4/21 to 4/29 Week: Prepared final design report
+     4/21 to 4/29 Week: Prepared final design report
 
      - Introduction: Tanvi Rahman
 
