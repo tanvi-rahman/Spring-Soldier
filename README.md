@@ -62,15 +62,11 @@ Completed Commissioning 4/29 ✔️
 
 4/20/21 Completed microsoft project schedule - Tanvi Rahman
 
-
-
-
-
 4/25/21 - Prepared final presentation - Tanvi Rahman
 
 4/21 to 4/29 Week: Prepared final design report
 
-     - Introduction: Tanvi Rahman\n
+     - Introduction: Tanvi Rahman
 
      - Requirements: Tanvi Rahman and George Zhang
 
