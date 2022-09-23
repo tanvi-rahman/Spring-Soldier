@@ -70,16 +70,16 @@ Completed Commissioning 4/29 ✔️
 
 4/21 to 4/29 Week: Prepared final design report
 
-Introduction: Tanvi Rahman\n
+     - Introduction: Tanvi Rahman\n
 
-Requirements: Tanvi Rahman and George Zhang
+     - Requirements: Tanvi Rahman and George Zhang
 
-Procedures: Tanvi Rahman and George Zhang
+     - Procedures: Tanvi Rahman and George Zhang
 
-Milestone and Final Product Requirements: Louie Rivera
+     - Milestone and Final Product Requirements: Louie Rivera
 
-Results: Everyone
+     - Results: Everyone
 
-Conclusion: Tanvi Rahman and George Zhang
+     - Conclusion: Tanvi Rahman and George Zhang
 
 Early Final Submission 4/29 ✔️
