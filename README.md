@@ -6,7 +6,7 @@
 
      2/24/21 - Preliminary CAD drawing by Tanvi Rahman
      
-     <img src='./Planning/prelim_drawing.png'>
+<img src='./Planning/prelim_drawing.png'>
 
      2/25/21-2/26/21 - Presentation completed by everyone
 
