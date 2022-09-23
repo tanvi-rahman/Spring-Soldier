@@ -1,14 +1,15 @@
 # Spring Soldier
  
-Week of 2/21/21-2/28/21
+ Week of 2/21/21-2/28/21
 
-2/23/21 - Try to get the preliminary CAD drawing done fore the presentation, Tanvi. - George Zhang 2/23/21
+ 2/23/21 - Try to get the preliminary CAD drawing done fore the presentation, Tanvi. - George Zhang 2/23/21
 
-2/24/21 - Preliminary CAD drawing by Tanvi Rahman
- 
-2/25/21-2/26/21 - Presentation completed by everyone
+ 2/24/21 - Preliminary CAD drawing by Tanvi Rahman
 
-2/26/21 - Looks like we won’t need a breadboard so we should be ok on the requirements, let us try to get the teamwork agreement done tomorrow. - Tanvi Rahman
+ 2/25/21-2/26/21 - Presentation completed by everyone
+
+ 2/26/21 - Looks like we won’t need a breadboard so we should be ok on the requirements, let us try to get the teamwork agreement done tomorrow. - Tanvi Rahman
+
 
 
 
