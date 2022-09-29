@@ -4,7 +4,7 @@ Week of 2/21/21-2/28/21
 
 2/23/21 - Try to get the preliminary CAD drawing done fore the presentation, Tanvi. - George Zhang 2/23/21
 
-2/24/21 - Preliminary CAD drawing by Tanvi Rahman
+2/24/21 - Preliminary CAD animations by Tanvi Rahman
      
 <img src='./Planning/prelim.png'>
 
